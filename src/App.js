@@ -10,8 +10,6 @@ function App() {
       <ProfileCard title ="Siri" handle="@siri01"/>
 
     </div>
-  );
-    
+  );    
 }
-
 export default App;
